@@ -1,3 +1,4 @@
+
 # Build, publish, and deploy using Tekton and ArgoCD
 
 This repository contains a simple application that uses [ArgoCD](https://argoproj.github.io/argo-cd/) to deploy its

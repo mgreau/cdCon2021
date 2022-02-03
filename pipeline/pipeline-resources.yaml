@@ -19,5 +19,5 @@ metadata:
 spec:
   params:
     - name: url
-      value: 'docker.io/pritidesai/cdcon2021-app:latest'
+      value: 'docker.io/mgreau/cdcon2021-app:latest'
   type: image
